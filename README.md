@@ -3,5 +3,5 @@
 Docker images (Alpine Linux with glibc)
 
 - [C.UTF-8](./Dockerfile)
-- [en_US.UTF-8](./Dockerfile.us)
-- [ja_JP.UTF-8](./Dockerfile.jp)
+- [en_US.UTF-8](./en_US/Dockerfile)
+- [ja_JP.UTF-8](./ja_JP/Dockerfile)
